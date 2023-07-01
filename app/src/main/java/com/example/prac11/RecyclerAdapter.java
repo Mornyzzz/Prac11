@@ -1,13 +1,16 @@
-package com.example.prac4;
+package com.example.prac11;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
 
 import java.util.List;
 

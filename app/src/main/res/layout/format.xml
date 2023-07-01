@@ -8,6 +8,7 @@
     >
 
     <ImageView
+        android:id="@+id/qwert"
         android:layout_width="81dp"
         android:layout_height="match_parent"
         android:background="@color/color_1"

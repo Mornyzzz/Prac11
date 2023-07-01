@@ -1,12 +1,12 @@
-package com.example.prac4;
+package com.example.prac11;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 
-import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Window;
+
 
 public class MainActivity extends AppCompatActivity {
 

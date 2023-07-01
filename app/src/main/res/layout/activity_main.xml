@@ -4,11 +4,12 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity" >
+    tools:context=".MainActivity"
+    android:background="@color/color_1">
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment1"
-        android:name="com.example.prac4.BlankFragment"
+        android:name="com.example.prac11.BlankFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout="@layout/fragment_blank" />

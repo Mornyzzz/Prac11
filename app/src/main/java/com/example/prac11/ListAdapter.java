@@ -1,7 +1,5 @@
-package com.example.prac4;
+package com.example.prac11;
 
-import android.annotation.SuppressLint;
-import android.content.ClipData;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
